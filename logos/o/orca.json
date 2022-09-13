@@ -1,25 +1,11 @@
 {
-    "name": "Orca",
+    "name": "ORCA",
     "symbol": "ORCA",
-    "type": "SPL",
-    "decimals": 6,
-    "description": "Orca is the easiest place to exchange cryptocurrency on Solana.",
-    "website": "https://orca.so/",
-    "explorer": "https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
-    "status": "active",
-    "id": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/orca_so"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/orca/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/orca"
-        }
-    ]
+    "type": "TRC10",
+    "decimals": 0,
+    "description": "-",
+    "website": "",
+    "explorer": "https://tronscan.io/#/token/1001920",
+    "status": "abandoned",
+    "id": "1001920"
 }

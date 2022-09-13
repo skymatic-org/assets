@@ -1,11 +1,14 @@
 {
-    "name": "aleph.im ERC-20 v2",
-    "website": "https://aleph.im",
-    "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
-    "explorer": "https://etherscan.io/token/0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
-    "type": "ERC20",
+    "name": "Aleph.im (Portal)",
+    "type": "SPL",
     "symbol": "ALEPH",
-    "decimals": 18,
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://aleph.im/",
+    "explorer": "https://solscan.io/token/3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
     "status": "active",
-    "id": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628"
+    "id": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
+    "tags": [
+        "wrapped"
+    ]
 }

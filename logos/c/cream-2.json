@@ -1,14 +1,14 @@
 {
-    "name": "Cream Finance",
-    "website": "https://cream.finance",
-    "description": "Cream - Crypto Rules Everything Around Me",
-    "explorer": "https://etherscan.io/token/0x2ba592F78dB6436527729929AAf6c908497cB200",
-    "type": "ERC20",
+    "name": "Cream (Portal)",
+    "type": "SPL",
     "symbol": "CREAM",
-    "decimals": 18,
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://creamcoin.com/",
+    "explorer": "https://solscan.io/token/HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
     "status": "active",
-    "id": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+    "id": "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
     "tags": [
-        "governance"
+        "wrapped"
     ]
 }

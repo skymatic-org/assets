@@ -1,32 +1,14 @@
 {
-    "name": "Spell Token",
+    "name": "Spell Token (Portal)",
+    "type": "SPL",
     "symbol": "SPELL",
-    "type": "AVALANCHE",
-    "decimals": 18,
-    "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
     "website": "https://abracadabra.money/",
-    "explorer": "https://snowtrace.io/address/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+    "explorer": "https://solscan.io/token/BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
     "status": "active",
-    "id": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MIM_Spell"
-        },
-        {
-            "name": "medium",
-            "url": "https://abracadabramoney.medium.com/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/spell-token/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/spell-token/"
-        }
-    ],
+    "id": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
     "tags": [
-        "defi"
+        "wrapped"
     ]
 }

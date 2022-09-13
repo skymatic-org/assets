@@ -1,36 +1,14 @@
 {
-    "name": "Reserve Rights",
-    "type": "ERC20",
+    "name": "Reserve Rights (Portal)",
+    "type": "SPL",
     "symbol": "RSR",
-    "decimals": 18,
-    "website": "https://reserve.org",
-    "description": "The Reserve team's goal is to make the most accessible, economically strongest, and most robust-to-attack currency.",
-    "explorer": "https://etherscan.io/token/0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://reserve.org/",
+    "explorer": "https://solscan.io/token/DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr",
     "status": "active",
-    "id": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/reserveprotocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/reservecurrency"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/reserve-protocol/rsr-mainnet"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/reserve-currency"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/reserve-rights-token/"
-        }
-    ],
+    "id": "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr",
     "tags": [
-        "defi"
+        "wrapped"
     ]
 }

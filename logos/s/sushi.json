@@ -1,12 +1,14 @@
 {
-    "name": "SushiToken",
-    "website": "https://sushiswap.fi",
-    "description": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
-    "explorer": "https://explorer.binance.org/asset/SUSHI-134",
-    "research": "https://research.binance.com/en/projects/sushi",
-    "type": "BEP2",
+    "name": "SushiToken (Portal)",
+    "type": "CW20",
     "symbol": "SUSHI",
     "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://sushi.com/",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a",
     "status": "active",
-    "id": "SUSHI-134"
+    "id": "terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a",
+    "tags": [
+        "wrapped"
+    ]
 }

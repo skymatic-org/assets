@@ -1,13 +1,13 @@
 {
     "name": "Marinade staked SOL (Portal)",
-    "type": "ERC20",
+    "type": "CW20",
     "symbol": "mSOL",
-    "decimals": 9,
+    "decimals": 8,
     "description": "Cross Chain Portal Bridged Token",
     "website": "https://marinade.finance/",
-    "explorer": "https://etherscan.io/token/0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
     "status": "active",
-    "id": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
+    "id": "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
     "tags": [
         "wrapped"
     ]

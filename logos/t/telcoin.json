@@ -1,13 +1,13 @@
 {
     "name": "Telcoin",
+    "website": "https://www.telco.in/",
+    "description": "A cryptocurrency distributed by your mobile operator and accepted everywhere.",
+    "explorer": "https://polygonscan.com/token/0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+    "type": "POLYGON",
     "symbol": "TEL",
-    "type": "ERC20",
     "decimals": 2,
-    "description": "Telcoin (TEL) is an Ethereum-based decentralized crypto established.",
-    "website": "http://www.telco.in",
-    "explorer": "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
     "status": "active",
-    "id": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+    "id": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
     "links": [
         {
             "name": "github",
@@ -18,24 +18,16 @@
             "url": "https://twitter.com/telcoin_team"
         },
         {
-            "name": "blog",
-            "url": "https://medium.com/@telcoin"
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/telcoin/"
         },
         {
-            "name": "facebook",
-            "url": "https://facebook.com/telcoin/"
+            "name": "medium",
+            "url": "https://medium.com/@telcoin"
         },
         {
             "name": "telegram",
             "url": "https://t.me/telcoincommunity"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://telco.in/docs/whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/telcoin/"
         }
     ]
 }

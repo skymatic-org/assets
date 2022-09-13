@@ -1,28 +1,21 @@
 {
-    "name": "USD Coin (Arb1)",
-    "type": "ARBITRUM",
+    "name": "USD Coin",
+    "type": "TRC20",
     "symbol": "USDC",
     "decimals": 6,
-    "website": "https://www.centre.io/usdc",
+    "website": "https://www.centre.io",
     "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
-    "explorer": "https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "explorer": "https://tronscan.io/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
     "status": "active",
-    "id": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "id": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
     "links": [
         {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+            "name": "github",
+            "url": "https://github.com/centrehq"
         },
         {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/usd-coin/"
-        },
-        {
-            "name": "blog",
-            "url": "https://centre.io/blog"
+            "name": "twitter",
+            "url": "https://twitter.com/centre_io"
         }
-    ],
-    "tags": [
-        "stablecoin"
     ]
-} 
+}

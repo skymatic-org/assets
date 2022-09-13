@@ -4,8 +4,8 @@
     "type": "ERC20",
     "decimals": 18,
     "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0xC45DbdF28844fdB1482C502897d433aC08d6cCd0",
+    "website": "https://bitnautic.io",
+    "explorer": "https://etherscan.io/token/0xD9964E1306dda055F5284c52048712c35DdB61Fd",
     "status": "abandoned",
-    "id": "0xC45DbdF28844fdB1482C502897d433aC08d6cCd0"
+    "id": "0xD9964E1306dda055F5284c52048712c35DdB61Fd"
 }

@@ -1,11 +1,12 @@
 {
-    "name": "ARPA",
-    "symbol": "ARPA",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "ARPA cryptographically enables private smart contract, unprecedented data-at-use privacy protection, as well as scalable computational sharding",
+    "name": "ARPA Chain",
     "website": "https://arpachain.io/",
-    "explorer": "https://explorer.binance.org/asset/ARPA-575",
+    "description": "Arpa envisions to be a privacy-preserving computation network by leveraging Multi-Party Computation (MPC).",
+    "explorer": "https://etherscan.io/token/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+    "research": "https://research.binance.com/en/projects/arpa",
+    "type": "ERC20",
+    "symbol": "ARPA",
+    "decimals": 18,
     "status": "active",
-    "id": "ARPA-575"
+    "id": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a"
 }

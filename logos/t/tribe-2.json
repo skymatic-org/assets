@@ -1,16 +1,14 @@
 {
-    "name": "Tribe",
-    "type": "ERC20",
+    "name": "Tribe (Portal)",
+    "type": "SPL",
     "symbol": "TRIBE",
-    "decimals": 18,
-    "website": "https://fei.money",
-    "description": "The governance token for Fei Protocol",
-    "explorer": "https://etherscan.io/token/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://fei.money/",
+    "explorer": "https://solscan.io/token/DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
     "status": "active",
-    "id": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+    "id": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
     "tags": [
-        "defi",
-        "stablecoin",
-        "governance"
+        "wrapped"
     ]
 }

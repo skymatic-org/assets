@@ -1,12 +1,24 @@
 {
     "name": "Binance USD",
-    "website": "https://paxos.com/busd",
-    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
-    "explorer": "https://explorer.binance.org/asset/BUSD-BD1",
-    "research": "https://research.binance.com/en/projects/binance-usd",
-    "type": "BEP2",
     "symbol": "BUSD",
+    "type": "KAVA",
     "decimals": 8,
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "website": "https://www.kava.io",
+    "explorer": "https://www.mintscan.io/kava",
     "status": "active",
-    "id": "BUSD-BD1"
+    "id": "busd",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/kava_platform"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kavalabs"
+        }
+    ]
 }

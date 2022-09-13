@@ -1,11 +1,14 @@
 {
-    "name": "MATH Token",
+    "name": "MATH Token (Portal)",
+    "type": "SPL",
     "symbol": "MATH",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "65+ Popular public chains supported",
-    "website": "https://mathwallet.org/",
-    "explorer": "https://etherscan.io/token/0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://mathchain.org/en/",
+    "explorer": "https://solscan.io/token/CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q",
     "status": "active",
-    "id": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30"
+    "id": "CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q",
+    "tags": [
+        "wrapped"
+    ]
 }

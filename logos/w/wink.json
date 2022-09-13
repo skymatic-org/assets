@@ -1,11 +1,25 @@
 {
     "name": "WINk",
+    "website": "https://wink.org",
+    "description": "WINK (formerly TRONBet) describes itself as a betting DApp based on the TRC20 WIN token.",
+    "explorer": "https://tronscan.io/#/token20/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+    "type": "TRC20",
     "symbol": "WIN",
-    "type": "BEP20",
-    "decimals": 18,
-    "description": "WINK describes itself as betting DApp.",
-    "website": "https://www.wink.org/#/",
-    "explorer": "https://bscscan.com/token/0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
+    "decimals": 6,
     "status": "active",
-    "id": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99"
+    "id": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/WINkLink_Oracle_official"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WinkLink_Oracle"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://winklink.org/#/"
+        }
+    ]
 }

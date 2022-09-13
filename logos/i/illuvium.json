@@ -1,11 +1,14 @@
 {
-    "name": "Illuvium",
+    "name": "Illuvium (Portal)",
+    "type": "SPL",
     "symbol": "ILV",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
-    "website": "https://illuvium.io",
-    "explorer": "https://etherscan.io/token/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://illuvium.io/",
+    "explorer": "https://solscan.io/token/8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
     "status": "active",
-    "id": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E"
+    "id": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
+    "tags": [
+        "wrapped"
+    ]
 }

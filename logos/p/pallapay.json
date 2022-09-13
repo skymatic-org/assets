@@ -1,32 +1,11 @@
 {
     "name": "Pallapay",
-    "type": "BEP20",
+    "type": "TRC20",
     "symbol": "PALLA",
-    "decimals": 18,
-    "website": "https://www.pallapay.com",
+    "decimals": 8,
+    "website": "https://www.pallapay.com/",
     "description": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.",
-    "explorer": "https://bscscan.com/token/0x8F49733210700D38098d7375C221c7d02F700cc8",
+    "explorer": "https://tronscan.io/#/token20/TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
     "status": "active",
-    "id": "0x8F49733210700D38098d7375C221c7d02F700cc8",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/pallapay_com"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/pallapay_channel"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/pallapay"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/pallapay"
-        }
-    ],
-    "tags": [
-        "defi"
-    ]
+    "id": "TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg"
 }

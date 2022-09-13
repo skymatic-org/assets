@@ -2,11 +2,28 @@
     "name": "NEAR Protocol",
     "website": "https://near.org",
     "description": "NEAR is an open source platform that accelerates the development of decentralized applications.",
-    "explorer": "https://explorer.binance.org/asset/NEAR-4FD",
+    "explorer": "https://explorer.near.org/",
     "research": "https://research.binance.com/en/projects/near-protocol",
-    "type": "BEP2",
     "symbol": "NEAR",
-    "decimals": 8,
+    "type": "coin",
+    "decimals": 24,
     "status": "active",
-    "id": "NEAR-4FD"
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/nearprotocol/nearcore"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/nearprotocol"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/nearprotocol/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://near.org/papers/the-official-near-white-paper"
+        }
+    ]
 }
