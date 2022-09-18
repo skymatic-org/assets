@@ -1,32 +1,11 @@
 {
-    "name": "BNB Smart Chain",
-    "website": "https://www.bnbchain.world/en/smartChain",
-    "description": "A blockchain with a full-fledged environment for developing high-performance decentralized applications and cross-chain compatibility with Binance Chain.",
-    "explorer": "https://bscscan.com/",
-    "research": "https://research.binance.com/en/projects/bnb",
+    "name": "BNB",
     "symbol": "BNB",
-    "type": "coin",
+    "type": "ERC20",
     "decimals": 18,
+    "description": "-",
+    "website": "https://www.binance.com",
+    "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
     "status": "active",
-    "tags": [
-        "staking-native"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/binance-chain/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BNBCHAIN"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/BinanceExchange"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
-        }
-    ]
+    "id": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
 }

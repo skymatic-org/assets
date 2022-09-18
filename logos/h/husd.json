@@ -1,14 +1,32 @@
 {
-    "name": "HUSD Stablecoin (Portal)",
-    "type": "SPL",
+    "name": "HUSD",
     "symbol": "HUSD",
+    "type": "ERC20",
     "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://www.stcoins.com/",
-    "explorer": "https://solscan.io/token/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+    "description": "The Safe and Secure Stablecoin.",
+    "website": "https://www.stcoins.com",
+    "explorer": "https://etherscan.io/token/0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "status": "active",
-    "id": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw",
+    "id": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "tags": [
-        "wrapped"
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/stcoins/HUSD"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Stablecoin_HUSD"
+        },
+        {
+            "name": "blog",
+            "url": "https://medium.com/@Stablecoin_HUSD"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/husd/"
+        }
     ]
 }

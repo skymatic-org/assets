@@ -1,11 +1,11 @@
 {
-    "name": "Crypterium",
-    "website": "https://crypterium.com",
-    "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
-    "explorer": "https://etherscan.io/token/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
-    "type": "ERC20",
+    "name": "Crypterium Token",
     "symbol": "CRPT",
-    "decimals": 18,
+    "type": "BEP2",
+    "decimals": 8,
+    "description": "Utility token intended for usage in any B2B/B2C products with different mechanics and is mainly used as a fee payment solution in Crypterium ecosystem.",
+    "website": "https://crypterium.com/",
+    "explorer": "https://explorer.binance.org/asset/CRPT-8C9",
     "status": "active",
-    "id": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B"
+    "id": "CRPT-8C9"
 }

@@ -1,14 +1,29 @@
 {
-    "name": "Ethereum Name Service (Portal)",
-    "type": "SPL",
+    "name": "Ethereum Name Service",
+    "type": "ERC20",
     "symbol": "ENS",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://ens.domains/",
-    "explorer": "https://solscan.io/token/CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
+    "decimals": 18,
+    "website": "https://ens.domains",
+    "description": "Decentralised naming for wallets, websites, & more.",
+    "explorer": "https://etherscan.io/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
     "status": "active",
-    "id": "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
-    "tags": [
-        "wrapped"
+    "id": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ensdomains"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ensdomains"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/the-ethereum-name-service"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/ens"
+        }
     ]
 }

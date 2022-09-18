@@ -1,29 +1,11 @@
 {
-    "name": "TomoChain",
-    "website": "https://tomochain.com",
-    "description": "TomoChain is a scalable blockchain powered via Proof-of-Stake Voting consensus and used commercially by companies globally.",
-    "explorer": "https://scan.tomochain.com",
-    "research": "https://research.binance.com/en/projects/tomochain",
+    "name": "TOMO",
     "symbol": "TOMO",
-    "type": "coin",
+    "type": "TRC21",
     "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://scan.tomochain.com/address/0x17B26400621695c2D8C2D8869f6259E82D7544c4",
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/tomochain"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TomoChainANN"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Tomochain"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://tomochain.com/docs/technical-whitepaper--1.0.pdf"
-        }
-    ]
+    "id": "0x17B26400621695c2D8C2D8869f6259E82D7544c4"
 }

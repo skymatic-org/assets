@@ -1,14 +1,11 @@
 {
-    "name": "Ampleforth (Portal)",
-    "type": "SPL",
+    "name": "Ampleforth",
+    "website": "https://ampleforth.org",
+    "description": "Ampleforth describes itself as smart commodity money. It is chain-agnostic and reportedly less-correlated to Bitcoin and other digital assets.",
+    "explorer": "https://etherscan.io/token/0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+    "type": "ERC20",
     "symbol": "AMPL",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://www.ampleforth.org/",
-    "explorer": "https://solscan.io/token/EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak",
+    "decimals": 9,
     "status": "active",
-    "id": "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak",
-    "tags": [
-        "wrapped"
-    ]
+    "id": "0xD46bA6D942050d489DBd938a2C909A5d5039A161"
 }

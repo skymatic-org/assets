@@ -3,9 +3,9 @@
     "symbol": "PLTC",
     "type": "ERC20",
     "decimals": 18,
-    "description": "Platon Finance is a blockchain digital ecosystem that represents a bridge for all the people and business owners so everybody could learn, understand, use and benefit from blockchain, a revolution of technology.",
-    "website": "https://platonfinance.com",
-    "explorer": "https://etherscan.io/token/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
-    "status": "active",
-    "id": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f"
+    "description": "-",
+    "website": "",
+    "explorer": "https://etherscan.io/token/0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4",
+    "status": "abandoned",
+    "id": "0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4"
 }

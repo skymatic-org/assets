@@ -2,11 +2,11 @@
     "name": "Aergo",
     "website": "https://aergo.io",
     "description": "Aergo describes itself as an open-source enterprise blockchain platform optimized for hybrid deployments, which consist of both permissioned and permissionless blockchain architectures.",
-    "explorer": "https://etherscan.io/token/0xAE31b85Bfe62747d0836B82608B4830361a3d37a",
+    "explorer": "https://explorer.binance.org/asset/AERGO-46B",
     "research": "https://research.binance.com/en/projects/aergo",
-    "type": "ERC20",
+    "type": "BEP2",
     "symbol": "AERGO",
-    "decimals": 18,
+    "decimals": 8,
     "status": "active",
-    "id": "0xAE31b85Bfe62747d0836B82608B4830361a3d37a"
+    "id": "AERGO-46B"
 }

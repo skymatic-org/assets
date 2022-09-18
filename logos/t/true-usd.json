@@ -1,11 +1,28 @@
 {
-    "name": "TrueUSD (OLD)",
-    "type": "ERC20",
+    "name": "TrueUSD",
     "symbol": "TUSD",
+    "type": "AVALANCHE",
     "decimals": 18,
-    "website": "",
-    "description": "-",
-    "explorer": "https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "description": "A regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars.",
+    "website": "https://trueusd.com/",
+    "explorer": "https://snowtrace.io/address/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
     "status": "active",
-    "id": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"
+    "id": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/trueusd/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/true-usd/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tusd_official"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
 }

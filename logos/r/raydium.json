@@ -1,13 +1,13 @@
 {
     "name": "Raydium (Portal)",
-    "type": "CW20",
+    "type": "ERC20",
     "symbol": "RAY",
     "decimals": 6,
     "description": "Cross Chain Portal Bridged Token",
     "website": "https://raydium.io/",
-    "explorer": "https://finder.terra.money/mainnet/address/terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q",
+    "explorer": "https://etherscan.io/token/0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
     "status": "active",
-    "id": "terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q",
+    "id": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
     "tags": [
         "wrapped"
     ]

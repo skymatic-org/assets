@@ -1,14 +1,12 @@
 {
-    "name": "Compound (Portal)",
-    "type": "SPL",
+    "name": "Compound",
+    "website": "https://compound.finance",
+    "description": "Compound is the governance token for the Compound protocol.",
+    "explorer": "https://explorer.binance.org/asset/COMP-DEE",
+    "research": "https://research.binance.com/en/projects/compound",
+    "type": "BEP2",
     "symbol": "COMP",
     "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://compound.finance/governance/comp",
-    "explorer": "https://solscan.io/token/AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
     "status": "active",
-    "id": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
-    "tags": [
-        "wrapped"
-    ]
+    "id": "COMP-DEE"
 }

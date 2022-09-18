@@ -1,29 +1,11 @@
 {
-    "name": "THETA",
-    "website": "https://thetatoken.org",
-    "description": "Theta is a decentralized video delivery network, powered by users and an innovative new blockchain.",
-    "explorer": "https://explorer.thetatoken.org",
-    "research": "https://research.binance.com/en/projects/theta-network",
+    "name": "Theta Network",
+    "type": "ERC20",
     "symbol": "THETA",
-    "type": "coin",
     "decimals": 18,
+    "website": "",
+    "description": "-",
+    "explorer": "https://etherscan.io/token/0x3883f5e181fccaf8410fa61e12b59bad963fb645",
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/thetatoken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Theta_Network"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/theta_network"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf"
-        }
-    ]
+    "id": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645"
 }

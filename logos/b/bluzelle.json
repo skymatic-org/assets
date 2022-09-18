@@ -1,29 +1,11 @@
 {
-    "name": "Bluzelle",
-    "website": "https://bluzelle.com/",
-    "description": "Bluzelle is a decentralized data network for dapps to manage data in a secure, tamper-proof, and highly scalable manner.",
-    "explorer": "http://bigdipper.net.bluzelle.com/",
-    "research": "https://research.binance.com/en/projects/bluzelle",
+    "name": "Bluzelle Token",
     "symbol": "BLZ",
-    "type": "coin",
-    "decimals": 6,
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://bluzelle.com",
+    "explorer": "https://etherscan.io/token/0x5732046A883704404F284Ce41FfADd5b007FD668",
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bluzelle"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BluzelleHQ"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Bluzelle/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://whitepaper.io/document/340/bluzelle-whitepaper"
-        }
-    ]
+    "id": "0x5732046A883704404F284Ce41FfADd5b007FD668"
 }

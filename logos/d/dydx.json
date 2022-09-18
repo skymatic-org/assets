@@ -1,14 +1,24 @@
 {
-    "name": "dYdX (Portal)",
-    "type": "SPL",
+    "name": "dYdX",
+    "type": "ERC20",
     "symbol": "DYDX",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://dydx.exchange/",
-    "explorer": "https://solscan.io/token/4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+    "decimals": 18,
+    "website": "https://dydx.foundation",
+    "description": "Trade & stake to earn rewards. Vote on the future of your exchange. Take control of the most powerful decentralized derivatives protocol.",
+    "explorer": "https://etherscan.io/token/0x92D6C1e31e14520e676a687F0a93788B716BEff5",
     "status": "active",
-    "id": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+    "id": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
     "tags": [
-        "wrapped"
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dydxfoundation"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/dydxfoundation"
+        }
     ]
 }

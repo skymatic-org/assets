@@ -1,12 +1,11 @@
 {
     "name": "Cartesi Token",
-    "website": "https://cartesi.io",
-    "description": "Cartesi Takes Smart Contracts to the Next Level.",
-    "explorer": "https://bscscan.com/token/0x8da443f84fea710266c8eb6bc34b71702d033ef2",
-    "research": "https://research.binance.com/en/projects/cartesi",
-    "type": "BEP20",
     "symbol": "CTSI",
+    "type": "ERC20",
     "decimals": 18,
+    "description": "-",
+    "website": "https://cartesi.io",
+    "explorer": "https://etherscan.io/token/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "status": "active",
-    "id": "0x8dA443F84fEA710266C8eB6bC34B71702d033EF2"
+    "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D"
 }

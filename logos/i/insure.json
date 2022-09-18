@@ -1,11 +1,36 @@
 {
     "name": "inSure",
-    "type": "BEP20",
     "symbol": "SURE",
+    "type": "AVALANCHE",
     "decimals": 18,
-    "website": "https://insuretoken.net",
-    "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations. inSure DeFi provides insurance solutions for the crypto space to stabilize and secure Crypto & DeFi portfolios.",
-    "explorer": "https://bscscan.com/token/0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+    "description": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
+    "website": "https://insuretoken.net/",
+    "explorer": "https://snowtrace.io/address/0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
     "status": "active",
-    "id": "0x9b17bAADf0f21F03e35249e0e59723F34994F806"
+    "id": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/InsureToken"
+        },
+        {
+            "name": "medium",
+            "url": "https://insureteam.medium.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/insuretoken"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/insure/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/insure/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
 }

@@ -1,25 +1,11 @@
 {
-    "name": "Jet Protocol",
+    "name": "Jetcoin",
     "symbol": "JET",
-    "type": "SPL",
-    "decimals": 9,
-    "description": "Jet is a decentralized borrowing and lending protocol built for speed, power, and scalability on Solana",
-    "website": "https://jetprotocol.io/",
-    "explorer": "https://solscan.io/token/JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Jetcoin (JET) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "http://www.jetcoininstitute.com",
+    "explorer": "https://etherscan.io/token/0x8727c112C712c4a03371AC87a74dD6aB104Af768",
     "status": "active",
-    "id": "JET6zMJWkCN9tpRT2v2jfAmm5VnQFDpUBCyaKojmGtz",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/jetprotocol"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/jet-protocol/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/jet"
-        }
-    ]
+    "id": "0x8727c112C712c4a03371AC87a74dD6aB104Af768"
 }

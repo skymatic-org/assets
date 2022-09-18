@@ -1,29 +1,44 @@
 {
-    "name": "Step Finance",
+    "name": "Step",
+    "type": "BEP20",
     "symbol": "STEP",
-    "type": "SPL",
-    "decimals": 9,
-    "description": "Step Finance is the front page of Solana. Visualise, Analyse, Execute and Aggregate transactions across all Solana contracts in one place. Step is a portfolio management dashboard and transaction aggregator where users can monitor their tokens associated with their wallets, LP positions, Staked Yield farms, Margin positions and more.",
-    "website": "https://step.finance/",
-    "explorer": "https://solscan.io/token/StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+    "decimals": 18,
+    "website": "https://walkwithstep.io/",
+    "description": "Track fitness activity, earn crypto, and be the best version of you. Same effort, more results.",
+    "explorer": "https://bscscan.com/token/0x465707181ACba42Ed01268A33f0507e320a154bD",
     "status": "active",
-    "id": "StepAscQoEioFxxWGnh2sLBDFp9d8rvKz2Yp39iDpyT",
+    "id": "0x465707181ACba42Ed01268A33f0507e320a154bD",
     "links": [
         {
-            "name": "discord",
-            "url": "https://discord.com/k5gMJUAEJe"
-        },
-        {
             "name": "twitter",
-            "url": "https://twitter.com/stepfinance_"
+            "url": "https://twitter.com/walkwithstep"
         },
         {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/step-finance"
+            "name": "telegram",
+            "url": "https://t.me/walkwithstep"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/StepAnnouncements"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/OfficialSTEP/"
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/step-finance/"
+            "url": "https://coinmarketcap.com/currencies/step/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/step"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://walkwithstep.io/whitepaperstep.pdf"
         }
+    ],
+    "tags": [
+        "gamefi"
     ]
 }

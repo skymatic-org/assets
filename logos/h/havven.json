@@ -1,14 +1,12 @@
 {
-    "name": "Synthetix Network Token (Portal)",
-    "type": "SPL",
+    "name": "Synthetix Network Token",
+    "website": "https://synthetix.io",
+    "description": "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets.",
+    "explorer": "https://explorer.binance.org/asset/SNX-C26",
+    "research": "https://research.binance.com/en/projects/synthetix",
+    "type": "BEP2",
     "symbol": "SNX",
     "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://www.synthetix.io/",
-    "explorer": "https://solscan.io/token/8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
     "status": "active",
-    "id": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
-    "tags": [
-        "wrapped"
-    ]
+    "id": "SNX-C26"
 }

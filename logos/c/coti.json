@@ -1,15 +1,11 @@
 {
     "name": "COTI",
-    "website": "https://coti.io/",
-    "description": "COTI a fixed-supply DAG-based cryptocurrency.",
-    "explorer": "https://etherscan.io/token/0xDDB3422497E61e13543BeA06989C0789117555c5",
-    "research": "https://coti.io/technology",
-    "type": "ERC20",
+    "website": "https://coti.io",
+    "description": "COTI describes itself as a 'fully encompassing finance on the blockchain” ecosystem that is designed specifically to meet the challenges of traditional finance.",
+    "explorer": "https://explorer.binance.org/asset/COTI-CBB",
+    "type": "BEP2",
     "symbol": "COTI",
-    "decimals": 18,
+    "decimals": 8,
     "status": "active",
-    "id": "0xDDB3422497E61e13543BeA06989C0789117555c5",
-    "tags": [
-        "defi"
-    ]
+    "id": "COTI-CBB"
 }

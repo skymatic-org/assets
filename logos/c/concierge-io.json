@@ -1,12 +1,12 @@
 {
-    "name": "Travala.com",
+    "name": "Travala.com Token",
     "website": "https://travala.com",
     "description": "Travala.com claims to be the leading blockchain-based travel booking platform.",
-    "explorer": "https://bscscan.com/token/0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9",
+    "explorer": "https://explorer.binance.org/asset/AVA-645",
     "research": "https://research.binance.com/en/projects/travala",
-    "type": "BEP20",
+    "type": "BEP2",
     "symbol": "AVA",
-    "decimals": 18,
+    "decimals": 8,
     "status": "active",
-    "id": "0x13616F44Ba82D63c8C0DC3Ff843D36a8ec1c05a9"
+    "id": "AVA-645"
 }

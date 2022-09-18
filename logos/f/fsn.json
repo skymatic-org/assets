@@ -1,11 +1,11 @@
 {
-    "name": "Fusion Token",
+    "name": "Fusion",
     "symbol": "FSN",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0xD0352a019e9AB9d757776F532377aAEbd36Fd541",
-    "status": "abandoned",
-    "id": "0xD0352a019e9AB9d757776F532377aAEbd36Fd541"
+    "type": "BEP2",
+    "decimals": 8,
+    "description": "The FSN token is an essential component of all the tools available in the Fusion ecosystem.",
+    "website": "https://www.fusion.org/",
+    "explorer": "https://explorer.binance.org/asset/FSN-E14",
+    "status": "active",
+    "id": "FSN-E14"
 }

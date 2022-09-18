@@ -1,17 +1,18 @@
 {
     "name": "Trust Wallet",
-    "symbol": "TWT",
-    "type": "SPL",
-    "decimals": 8,
-    "description": "Utility token to increase adoption of cryptocurrency.",
     "website": "https://trustwallet.com",
-    "explorer": "https://solscan.io/token/HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD",
+    "description": "Utility token to increase adoption of cryptocurrency.",
+    "explorer": "https://explorer.binance.org/asset/TWT-8C2",
+    "research": "https://research.binance.com/en/projects/trustwallet",
+    "type": "BEP2",
+    "symbol": "TWT",
+    "decimals": 8,
     "status": "active",
-    "id": "HZNpqL7RT9gxf9eWoWsWzC5DfjzQ41XTQgEA7p3VzaaD",
+    "id": "TWT-8C2",
     "links": [
         {
             "name": "github",
-            "url": "https://github.com/trustwallet/"
+            "url": "https://github.com/trustwallet"
         },
         {
             "name": "twitter",

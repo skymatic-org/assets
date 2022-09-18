@@ -1,30 +1,11 @@
 {
     "name": "Polygon",
-    "website": "https://polygon.technology/",
-    "short_description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-    "description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-    "explorer": "https://polygonscan.com/",
-    "research": "https://docs.matic.network/",
-    "type": "coin",
+    "website": "https://matic.network",
+    "description": "Matic Network is a Layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using the Plasma framework and a decentralized network of Proof-of-Stake (PoS) validators.",
+    "explorer": "https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "type": "ERC20",
     "symbol": "MATIC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/maticnetwork/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/0xPolygon"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/maticnetwork/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/maticnetwork/whitepaper"
-        }
-    ]
+    "id": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
 }

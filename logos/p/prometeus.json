@@ -1,13 +1,13 @@
 {
     "name": "Prom",
-    "type": "BEP20",
+    "type": "ERC20",
     "symbol": "PROM",
     "decimals": 18,
     "website": "https://prom.io",
     "description": "Prom is a gaming NFT marketplace & rental. Completely decentralized, confidential, and safe, it meets the needs of players, metaverse-enthusiasts, NFT owners, guilds, and games.",
-    "explorer": "https://bscscan.com/token/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
+    "explorer": "https://etherscan.io/token/0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
     "status": "active",
-    "id": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
+    "id": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
     "links": [
         {
             "name": "twitter",

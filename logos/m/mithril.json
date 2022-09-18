@@ -1,11 +1,11 @@
 {
-    "name": "Mithril Token",
+    "name": "Mithril",
     "symbol": "MITH",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "-",
+    "type": "BEP2",
+    "decimals": 8,
+    "description": "Mithril (MITH) is a decentralized social media platform that rewards users for creating content.",
     "website": "https://mith.io/",
-    "explorer": "https://etherscan.io/token/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
-    "status": "abandoned",
-    "id": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB"
+    "explorer": "https://explorer.binance.org/asset/MITH-C76",
+    "status": "active",
+    "id": "MITH-C76"
 }

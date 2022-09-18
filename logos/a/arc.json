@@ -1,11 +1,11 @@
 {
-    "name": "Arcnet",
+    "name": "Arcade Token",
     "symbol": "ARC",
-    "type": "TRC10",
-    "decimals": 0,
+    "type": "ERC20",
+    "decimals": 18,
     "description": "-",
     "website": "",
-    "explorer": "https://tronscan.io/#/token/1002116",
+    "explorer": "https://etherscan.io/token/0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5",
     "status": "abandoned",
-    "id": "1002116"
+    "id": "0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5"
 }

@@ -1,11 +1,17 @@
 {
-    "name": "Clover Finance",
-    "symbol": "CLV",
+    "name": "Clover",
+    "website": "https://clv.surge.sh/",
+    "description": "A crypto community and group unlike any other. Unrivaled in their authenticity and uniqueness, they are certainly not for the easily offended.",
+    "explorer": "https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F",
     "type": "ERC20",
-    "decimals": 18,
-    "description": "Clover Finance is an infrastructure platform focused on cross-chain compatibility.",
-    "website": "https://clover.finance",
-    "explorer": "https://etherscan.io/token/0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+    "symbol": "CLV",
+    "decimals": 6,
     "status": "active",
-    "id": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52"
+    "id": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/clvfi"
+        }
+    ]
 }

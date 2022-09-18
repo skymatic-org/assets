@@ -1,13 +1,13 @@
 {
     "name": "PancakeSwap Token (Portal)",
-    "type": "CW20",
+    "type": "AVALANCHE",
     "symbol": "CAKE",
-    "decimals": 8,
+    "decimals": 18,
     "description": "Cross Chain Portal Bridged Token",
     "website": "https://pancakeswap.finance/",
-    "explorer": "https://finder.terra.money/mainnet/address/terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av",
+    "explorer": "https://snowtrace.io/address/0x98a4d09036Cc5337810096b1D004109686E56Afc",
     "status": "active",
-    "id": "terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av",
+    "id": "0x98a4d09036Cc5337810096b1D004109686E56Afc",
     "tags": [
         "wrapped"
     ]

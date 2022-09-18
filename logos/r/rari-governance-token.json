@@ -1,14 +1,15 @@
 {
-    "name": "Rari Governance Token (Portal)",
-    "type": "SPL",
+    "name": "Rari Governance Token (RGT)",
+    "type": "ERC20",
     "symbol": "RGT",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://rari.capital/",
-    "explorer": "https://solscan.io/token/ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
+    "decimals": 18,
+    "website": "https://rari.capital",
+    "description": "The Rari Governance Token is the native token behind Rari Capital.",
+    "explorer": "https://etherscan.io/token/0xD291E7a03283640FDc51b121aC401383A46cC623",
     "status": "active",
-    "id": "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
+    "id": "0xD291E7a03283640FDc51b121aC401383A46cC623",
     "tags": [
-        "wrapped"
+        "defi",
+        "governance"
     ]
 }

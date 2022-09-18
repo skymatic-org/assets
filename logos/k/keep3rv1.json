@@ -1,14 +1,12 @@
 {
-    "name": "Keep3rV1 (Portal)",
-    "type": "SPL",
+    "name": "Keep3rV1",
+    "website": "https://keep3r.network",
+    "description": "Keep3rV1 is a decentralized job-matching platform for connecting external DevOps with projects that need help for completing various tasks.",
+    "explorer": "https://etherscan.io/token/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+    "research": "https://research.binance.com/en/projects/keep3rv1",
+    "type": "ERC20",
     "symbol": "KP3R",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://keep3r.network/",
-    "explorer": "https://solscan.io/token/3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
+    "decimals": 18,
     "status": "active",
-    "id": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
-    "tags": [
-        "wrapped"
-    ]
+    "id": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44"
 }

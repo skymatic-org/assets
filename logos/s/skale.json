@@ -1,11 +1,17 @@
 {
-    "name": "SKALE",
-    "symbol": "SKL",
+    "name": "SKALE Network",
+    "website": "https://skale.network/",
+    "description": "Skale is an ethereum interoperable elastic blockchain network.",
+    "explorer": "https://etherscan.io/token/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
     "type": "ERC20",
-    "decimals": 8,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0x2B1f91AfbAC59FAfB0E5EAa22e0Ff0539E97EBa8",
-    "status": "abandoned",
-    "id": "0x2B1f91AfbAC59FAfB0E5EAa22e0Ff0539E97EBa8"
+    "symbol": "SKL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://skale.network/whitepaper"
+        }
+    ]
 }

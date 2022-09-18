@@ -1,14 +1,32 @@
 {
-    "name": "Chainlink (Portal)",
-    "type": "CW20",
+    "name": "Chainlink",
+    "website": "https://chain.link",
+    "description": "Chainlink is a decentralized oracle service, which aims to connect smart contracts with data from the real world. Oracles are needed to function as data feeds in smart contracts. Oracles provide external data (e.g. temperature, weather) that can drive smart contract executions. Participants on the network are incentivized (through rewards) to provide smart contracts with access to external data feeds.",
+    "explorer": "https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "type": "ERC20",
     "symbol": "LINK",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://chain.link/",
-    "explorer": "https://finder.terra.money/mainnet/address/terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym",
+    "decimals": 18,
     "status": "active",
-    "id": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym",
+    "id": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
     "tags": [
-        "wrapped"
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/smartcontractkit/chainlink"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/chainlink"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://link.smartcontract.com/whitepaper"
+        }
     ]
 }

@@ -1,14 +1,16 @@
 {
-    "name": "The Sandbox (Portal)",
-    "type": "SPL",
+    "name": "The Sandbox",
+    "website": "https://sandbox.game/en",
+    "description": "The SAND token is an ERC-20 utility token that is used for value transfers as well as staking and governance.",
+    "explorer": "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "research": "https://research.binance.com/en/projects/the-sandbox",
+    "type": "ERC20",
     "symbol": "SAND",
-    "decimals": 8,
-    "description": "Cross Chain Portal Bridged Token",
-    "website": "https://www.sandbox.game/en/",
-    "explorer": "https://solscan.io/token/49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+    "decimals": 18,
     "status": "active",
-    "id": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+    "id": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
     "tags": [
-        "wrapped"
+        "nft",
+        "gamefi"
     ]
 }
