@@ -2,12 +2,12 @@
     "name": "NAOS Finance",
     "website": "https://naos.finance/",
     "description": "A DeFi lending protocol allowing lenders and SME borrowers to facilitate permissionless and borderless loaning/borrowing transactions",
-    "explorer": "https://etherscan.io/token/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
-    "type": "ERC20",
+    "explorer": "https://bscscan.com/token/0x758d08864fb6cce3062667225ca10b8f00496cc2",
+    "type": "BEP20",
     "symbol": "NAOS",
     "decimals": 18,
     "status": "active",
-    "id": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+    "id": "0x758d08864fB6cCE3062667225ca10b8F00496cc2",
     "links": [
         {
             "name": "twitter",

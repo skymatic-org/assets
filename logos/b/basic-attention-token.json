@@ -1,12 +1,14 @@
 {
-    "name": "Basic Attention Token",
-    "website": "https://basicattentiontoken.org",
-    "description": "Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.",
-    "explorer": "https://explorer.binance.org/asset/BAT-07A",
-    "research": "https://research.binance.com/en/projects/basic-attention-token",
-    "type": "BEP2",
+    "name": "Basic Attention Token (Portal)",
+    "type": "CW20",
     "symbol": "BAT",
     "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://basicattentiontoken.org/",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2",
     "status": "active",
-    "id": "BAT-07A"
+    "id": "terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2",
+    "tags": [
+        "wrapped"
+    ]
 }

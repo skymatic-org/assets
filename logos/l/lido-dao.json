@@ -1,29 +1,14 @@
 {
-    "name": "Lido DAO",
-    "type": "ERC20",
+    "name": "Lido DAO (Portal)",
+    "type": "CW20",
     "symbol": "LDO",
-    "decimals": 18,
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
     "website": "https://stake.lido.fi/",
-    "description": "Lido is a liquid staking solution for Ethereum. Lido lets users stake their ETH - with no minimum deposits or maintaining of infrastructure - whilst participating in on-chain activities, e.g. lending, to compound returns. LDO is an ERC20 token granting governance rights in the Lido DAO.",
-    "explorer": "https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
     "status": "active",
-    "id": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/lidofinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/lidofinance"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/lido-dao/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/lido-dao/"
-        }
+    "id": "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
+    "tags": [
+        "wrapped"
     ]
 }

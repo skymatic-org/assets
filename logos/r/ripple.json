@@ -1,11 +1,29 @@
 {
-    "name": "XRP BEP2",
+    "name": "XRP",
+    "website": "https://ripple.com/xrp/",
+    "description": "Instantly move money to all corners of the world.",
+    "explorer": "https://xrpcharts.ripple.com/#/graph/",
+    "research": "https://research.binance.com/en/projects/xrp",
     "symbol": "XRP",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "XRP BEP2 (XRP) is a token on Binance Chain issued by Binance, where the price is pegged to XRP at a rate of 1 XRP BEP2 = 1 XRP.",
-    "website": "https://binance.org",
-    "explorer": "https://explorer.binance.org/asset/XRP-BF2",
+    "type": "coin",
+    "decimals": 6,
     "status": "active",
-    "id": "XRP-BF2"
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ripple"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Ripple"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Ripple"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+        }
+    ]
 }

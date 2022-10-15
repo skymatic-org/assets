@@ -3,9 +3,9 @@
     "symbol": "LYM",
     "type": "ERC20",
     "decimals": 18,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC",
-    "status": "abandoned",
-    "id": "0x57aD67aCf9bF015E4820Fbd66EA1A21BED8852eC"
+    "description": "Lympo is a sports and health ecosystem powered by priceless user-generated and user-controlled data which can help generate exponential returns for industry stakeholders and users alike.",
+    "website": "https://lympo.io/",
+    "explorer": "https://etherscan.io/token/0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+    "status": "active",
+    "id": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5"
 }

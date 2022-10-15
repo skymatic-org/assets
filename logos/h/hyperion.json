@@ -1,11 +1,11 @@
 {
-    "name": "Hyperion Token",
+    "name": "Hyperion",
+    "website": "https://hyn.space",
+    "description": "Hyperion organically integrates innovations of three important dimensions, coined as the Hyperion Trinity, to eventually achieve a sustainable and self-governed map economy of the world. ",
+    "explorer": "https://etherscan.io/token/0xE99A894a69d7c2e3C92E61B64C505A6a57d2bC07",
+    "type": "ERC20",
     "symbol": "HYN",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "Hyperion is a decentralized map platform that aims to create a unified global data map and services, and make it available for everyone to use.",
-    "website": "https://www.hyn.space/",
-    "explorer": "https://explorer.binance.org/asset/HYN-F21",
+    "decimals": 18,
     "status": "active",
-    "id": "HYN-F21"
+    "id": "0xE99A894a69d7c2e3C92E61B64C505A6a57d2bC07"
 }

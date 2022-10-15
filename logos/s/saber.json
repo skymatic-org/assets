@@ -1,13 +1,13 @@
 {
     "name": "Saber (Portal)",
-    "type": "BEP20",
+    "type": "CW20",
     "symbol": "SBR",
     "decimals": 6,
     "description": "Cross Chain Portal Bridged Token",
     "website": "https://saber.so/",
-    "explorer": "https://bscscan.com/token/0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+    "explorer": "https://finder.terra.money/mainnet/address/terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
     "status": "active",
-    "id": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+    "id": "terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
     "tags": [
         "wrapped"
     ]

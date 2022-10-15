@@ -3,9 +3,9 @@
     "symbol": "DONUT",
     "type": "ERC20",
     "decimals": 18,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0x23D80c4EE8Fb55D4183dd9329296E176dC7464e1",
-    "status": "abandoned",
-    "id": "0x23D80c4EE8Fb55D4183dd9329296E176dC7464e1"
+    "description": "Donut is an ERC-20 token that represents the community points of /r/ethtrader subreddit.",
+    "website": "https://www.reddit.com/r/ethtrader",
+    "explorer": "https://etherscan.io/token/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+    "status": "active",
+    "id": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
 }

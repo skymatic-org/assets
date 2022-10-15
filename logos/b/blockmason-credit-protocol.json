@@ -1,11 +1,11 @@
 {
-    "name": "Blockmason Credit Protocol",
+    "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
     "symbol": "BCPT",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "Blockmason’s Credit Protocol is a standardized, reliable and secure method for recording and permanently storing debt and credit obligations on the blockchain",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Democratizing the creation of credit through permanently recorded debts and obligations.",
     "website": "https://blockmason.io/",
-    "explorer": "https://explorer.binance.org/asset/BCPT-95A",
+    "explorer": "https://etherscan.io/token/0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
     "status": "active",
-    "id": "BCPT-95A"
+    "id": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd"
 }

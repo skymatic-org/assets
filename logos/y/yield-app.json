@@ -1,29 +1,21 @@
 {
     "name": "Yield",
-    "website": "https://yield.credit/",
-    "description": "A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan",
-    "explorer": "https://etherscan.io/token/0xdcb01cc464238396e213a6fdd933e36796eaff9f",
+    "website": "https://yield.app",
+    "description": "YLD is a utility token that allows YIELD.app users to boost their APY",
+    "explorer": "https://etherscan.io/token/0xF94b5C5651c888d928439aB6514B93944eEE6F48",
     "type": "ERC20",
     "symbol": "YLD",
     "decimals": 18,
     "status": "active",
-    "id": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+    "id": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
     "links": [
         {
-            "name": "twitter",
-            "url": "https://twitter.com/YieldCredit"
+            "name": "github",
+            "url": "https://github.com/yieldapp"
         },
         {
-            "name": "telegram",
-            "url": "https://t.me/yieldchat"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/CGBGRrKJyX"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/YieldCredit"
+            "name": "whitepaper",
+            "url": "https://yield.app/whitepaper"
         }
     ]
 }

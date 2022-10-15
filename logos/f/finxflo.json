@@ -1,11 +1,25 @@
 {
     "name": "Finxflo",
-    "website": "https://www.finxflo.com/",
-    "description": "Finxflo is the world's first hybrid liquidity aggregator designed to offer the best rates and prices from the world’s leading CeFi and DeFi protocols through one connection, one account and one KYC process.",
-    "explorer": "https://etherscan.io/token/0x8a40c222996f9F3431f63Bf80244C36822060f12",
-    "type": "ERC20",
+    "type": "BEP20",
     "symbol": "FXF",
     "decimals": 18,
+    "website": "https://www.finxflo.com/",
+    "description": "Regulated and secure, the FINXFLO platform is designed to provide users with a one-stop solution with some of the best prices from the world's leading CeFi and DeFi protocols.",
+    "explorer": "https://bscscan.com/token/0x8a40c222996f9F3431f63Bf80244C36822060f12",
     "status": "active",
-    "id": "0x8a40c222996f9F3431f63Bf80244C36822060f12"
+    "id": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
+    "links": [
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/Finxflo/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Finxflo_Community"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/finxflo"
+        }
+    ]
 }

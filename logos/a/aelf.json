@@ -2,11 +2,11 @@
     "name": "aelf",
     "website": "http://aelf.io",
     "description": "Aelf (ELF) is an enterprise-focused blockchain platform powered by cloud computing. Leveraging cloud nodes and parallel processing, Aelf is reportedly able to achieve secure transactions at scale for commercial use cases.",
-    "explorer": "https://explorer.binance.org/asset/ELF-D72",
+    "explorer": "https://bscscan.com/token/0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9",
     "research": "https://research.binance.com/en/projects/aelf",
-    "type": "BEP2",
+    "type": "BEP20",
     "symbol": "ELF",
-    "decimals": 8,
+    "decimals": 18,
     "status": "active",
-    "id": "ELF-D72"
+    "id": "0xa3f020a5C92e15be13CAF0Ee5C95cF79585EeCC9"
 }

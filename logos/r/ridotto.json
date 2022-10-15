@@ -1,13 +1,13 @@
 {
     "name": "Ridotto Token",
     "symbol": "RDT",
-    "type": "ERC20",
+    "type": "BEP20",
     "decimals": 18,
     "description": "RDT is the native token for the Ridotto cross-chain gambling & lottery protocol.",
     "website": "https://ridotto.io",
-    "explorer": "https://etherscan.io/token/0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+    "explorer": "https://bscscan.com/token/0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5",
     "status": "active",
-    "id": "0x4740735AA98Dc8aa232BD049f8F0210458E7fCa3",
+    "id": "0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5",
     "links": [
         {
             "name": "twitter",

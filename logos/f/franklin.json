@@ -1,11 +1,11 @@
 {
     "name": "Franklin",
-    "type": "ERC20",
+    "type": "BEP20",
     "symbol": "FLy",
     "decimals": 4,
     "website": "https://tokenfly.co/",
-    "description": "The FLy token was designed to provide customers with an opportunity of getting discounts and additional benefits from VRM and its eco-system. The token should support company development by involving people in long-term relationships and building a strong society of institutional and retail partners around the company. FLy is an ERC20 token, but the company will reserve the right to move a part of the token supply to different blockchain networks in the future.",
-    "explorer": "https://etherscan.io/token/0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
+    "description": "Pegged Franklin (FLy) – the native token of the VRM and Black Ocean ecosystems. Token holders can enjoy discounted trading fees, additional rebates and use Black Ocean solutions, such as Liquidity and Dark pools, Token-sale launchpad, NFT market, margin trading and liquidity mining opportunities.",
+    "explorer": "https://bscscan.com/token/0x681fd3e49a6188Fc526784eE70AA1C269ee2B887",
     "status": "active",
-    "id": "0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472"
+    "id": "0x681fd3e49a6188Fc526784eE70AA1C269ee2B887"
 }

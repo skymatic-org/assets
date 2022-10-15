@@ -1,29 +1,14 @@
 {
-    "name": "SHIBA INU",
-    "website": "https://shibatoken.com/",
-    "description": "According to SHIBA INU, the reasoning behind the creation of SHIBA is that Shibas constantly forget where they bury their treasure. The website proclaims \"Many doggie wars have been waged over precious treasure and delicious goodies.\"",
-    "explorer": "https://etherscan.io/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "type": "ERC20",
+    "name": "Shiba Inu (Portal)",
+    "type": "CW20",
     "symbol": "SHIB",
-    "decimals": 18,
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://shibatoken.com/",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1huku2lecfjhq9d00k5a8dh73gw7dwe6vvuf2dd",
     "status": "active",
-    "id": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "id": "terra1huku2lecfjhq9d00k5a8dh73gw7dwe6vvuf2dd",
     "tags": [
-        "deflationary",
-        "memes"
-    ],
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/shibainuthedogecoinkiller"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/shiba-inu/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/shiba-inu/"
-        }
+        "wrapped"
     ]
 }

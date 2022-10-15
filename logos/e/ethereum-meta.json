@@ -1,11 +1,25 @@
 {
     "name": "Ethereum Meta",
-    "symbol": "ETHM",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "-",
     "website": "https://ethermeta.com/",
-    "explorer": "https://etherscan.io/token/0x56b6431F45d08eED55f34371386326c739eACbcC",
-    "status": "abandoned",
-    "id": "0x56b6431F45d08eED55f34371386326c739eACbcC"
-}
+    "description": "If Ethereum is like http then Ethereum Meta is https — a secure transport layer",
+    "explorer": "https://bscscan.com/token/0x0b33542240d6fA323c796749F6D6869fdB7F13cA",
+    "type": "BEP20",
+    "symbol": "ETHM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0b33542240d6fA323c796749F6D6869fdB7F13cA",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/ethereummeta"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethereum-meta/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EthereumMeta"
+        }
+    ]
+}  

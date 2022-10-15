@@ -1,11 +1,11 @@
 {
     "name": "LITION",
     "symbol": "LIT",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "Lition innovates on the traditional fiat-based financial system by utilizing a unique private blockchain solution for central banks to issue and monitor digital currency usage and transactions.",
-    "website": "https://lition.io/",
-    "explorer": "https://explorer.binance.org/asset/LIT-099",
-    "status": "active",
-    "id": "LIT-099"
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://www.lition.io/",
+    "explorer": "https://etherscan.io/token/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+    "status": "abandoned",
+    "id": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2"
 }

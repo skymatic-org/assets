@@ -1,11 +1,11 @@
 {
-    "name": "WHALE",
+    "name": "WhaleFall",
+    "website": "http://whalefall-defi.com",
+    "description": "WhaleFall is a experimentation of a decentralized community movement to break free from the oppression of the financial class.",
+    "explorer": "https://bscscan.com/token/0x587C16b84c64751760f6e3e7e32F896634704352",
+    "type": "BEP20",
     "symbol": "WHALE",
-    "type": "ERC20",
-    "decimals": 4,
-    "description": "WHALE claims to be the first social token backed by the best NFT collection around.",
-    "website": "https://whale.me",
-    "explorer": "https://etherscan.io/token/0x9355372396e3F6daF13359B7b607a3374cc638e0",
+    "decimals": 9,
     "status": "active",
-    "id": "0x9355372396e3F6daF13359B7b607a3374cc638e0"
+    "id": "0x587C16b84c64751760f6e3e7e32F896634704352"
 }

@@ -1,11 +1,29 @@
 {
-    "name": "Wallstreetbets",
+    "name": "WallStreetBets DApp",
+    "type": "BEP20",
     "symbol": "WSB",
-    "type": "ERC20",
     "decimals": 18,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0x9d0A4859Aa6a2909E7421b09F701f677F27f1aB4",
-    "status": "abandoned",
-    "id": "0x9d0A4859Aa6a2909E7421b09F701f677F27f1aB4"
+    "website": "https://wsbdapp.com",
+    "description": "WSBDApp gives users access to stocks, staking and crypto portfolios.",
+    "explorer": "https://bscscan.com/token/0x22168882276e5D5e1da694343b41DD7726eeb288",
+    "status": "active",
+    "id": "0x22168882276e5D5e1da694343b41DD7726eeb288",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WSBDapp"
+        },
+        {
+            "name": "medium",
+            "url": "https://wsbdapp.medium.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/wallstreetbets"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/channel/UCUvxcGE0XCWVPmflZiUXK-g"
+        }
+    ]
 }

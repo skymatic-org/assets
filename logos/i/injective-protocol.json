@@ -1,11 +1,12 @@
 {
     "name": "Injective Protocol",
+    "website": "https://injectiveprotocol.com",
+    "description": "The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
+    "explorer": "https://bscscan.com/token/0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+    "research": "https://research.binance.com/en/projects/injective-protocol",
+    "type": "BEP20",
     "symbol": "INJ",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "The Injective Chain is a fully-decentralized sidechain relayer network which serves as a layer- 2 derivatives platform, trade execution coordinator(TEC), and decentralized orderbook.",
-    "website": "https://injectiveprotocol.com/",
-    "explorer": "https://explorer.binance.org/asset/INJ-FAE",
+    "decimals": 18,
     "status": "active",
-    "id": "INJ-FAE"
+    "id": "0xa2B726B1145A4773F68593CF171187d8EBe4d495"
 }

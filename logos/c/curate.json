@@ -1,11 +1,33 @@
 {
     "name": "Curate",
+    "website": "https://curate.style",
+    "description": "The official token for Curate",
+    "explorer": "https://bscscan.com/token/0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
+    "type": "BEP20",
     "symbol": "XCUR",
-    "type": "ERC20",
     "decimals": 8,
-    "description": "CURATE is a marketplace app centred around the theme of content discovery on clothing/fashion, gaming/tech, crypto assets and health/beauty and more. Curate utilises blockchain technology as a payment infrastructure and means of rewarding engagement i.e buying, selling or based on our rewards engagement algorithm. XCUR is the official token for the CURATE marketplace app and DeFi platform.",
-    "website": "https://curate.style/",
-    "explorer": "https://etherscan.io/token/0xE1c7E30C42C24582888C758984f6e382096786bd",
     "status": "active",
-    "id": "0xE1c7E30C42C24582888C758984f6e382096786bd"
+    "id": "0x708C671Aa997da536869B50B6C67FA0C32Ce80B2",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/curate"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/curateproject"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/XCUR"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/mtBpcqtBaK"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/curate-project"
+        }
+    ]
 }

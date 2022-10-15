@@ -1,10 +1,10 @@
 {
-    "id": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
+    "id": "0x6D6bA21E4C4b29CA7Bfa1c344Ba1E35B8DaE7205",
     "name": "Katana Inu Token",
     "website": "https://katanainu.com",
     "description": "Katana Inu is a play2earn metaverse NFT-Game in an interactive openworld - All skins and weapons are NFTs. A project that focuses on driving Gaming & NFT crypto innovation through its innovative game offerings with auto staking in in-game reward method.",
-    "explorer": "https://etherscan.io/token/0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
-    "type": "ERC20",
+    "explorer": "https://bscscan.com/token/0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205",
+    "type": "BEP20",
     "symbol": "KATA",
     "decimals": 18,
     "status": "active",
@@ -37,12 +37,12 @@
             "url": "https://katanainu.com/katanainuwhitepaper.pdf/"
         },
         {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/katana-inu"
-        },
-        {
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/katana-inu/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/katana-inu"
         }
     ]
 }

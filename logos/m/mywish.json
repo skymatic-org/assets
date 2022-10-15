@@ -1,11 +1,11 @@
 {
-    "name": "MyWish",
+    "name": "MyWish Token",
     "symbol": "WISH",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "Decentralized full cycle platform: Smart contracts creation, Audit, Deployment, Systematic calling on schedule, Execution.",
-    "website": "https://mywish.io",
-    "explorer": "https://explorer.binance.org/asset/WISH-2D5",
-    "status": "active",
-    "id": "WISH-2D5"
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://mywish.io/index.html",
+    "explorer": "https://etherscan.io/token/0x1b22C32cD936cB97C28C5690a0695a82Abf688e6",
+    "status": "abandoned",
+    "id": "0x1b22C32cD936cB97C28C5690a0695a82Abf688e6"
 }

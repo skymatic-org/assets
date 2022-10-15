@@ -1,12 +1,14 @@
 {
-    "name": "Aave Token",
+    "name": "Aave Token (Portal)",
+    "type": "SPL",
     "symbol": "AAVE",
-    "type": "BEP2",
     "decimals": 8,
-    "description": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
-    "website": "https://aave.com",
-    "explorer": "https://explorer.binance.org/asset/AAVE-8FA",
-    "research": "https://research.binance.com/en/projects/aave-protocol",
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://app.aave.com/?referral=93",
+    "explorer": "https://solscan.io/token/3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
     "status": "active",
-    "id": "AAVE-8FA"
+    "id": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
+    "tags": [
+        "wrapped"
+    ]
 }

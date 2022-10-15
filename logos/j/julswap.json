@@ -1,17 +1,11 @@
 {
     "name": "JulSwap",
     "website": "https://julswap.com",
-    "description": "The JulSwap Token on ETH .",
-    "explorer": "https://etherscan.io/token/0x93effD08e3E5A4B1b40C26137e63876B2501ffA4",
-    "type": "ERC20",
+    "description": "JulSwap DEX Commnuity Token",
+    "explorer": "https://bscscan.com/token/0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+    "type": "BEP20",
     "symbol": "JulD",
     "decimals": 18,
     "status": "active",
-    "id": "0x93effD08e3E5A4B1b40C26137e63876B2501ffA4",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/JustLiquidity"
-        }
-    ]
+    "id": "0x5A41F637C3f7553dBa6dDC2D3cA92641096577ea"
 }

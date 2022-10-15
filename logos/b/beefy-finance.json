@@ -1,32 +1,33 @@
 {
     "name": "beefy.finance",
-    "symbol": "BIFI",
-    "type": "AVALANCHE",
-    "decimals": 18,
-    "description": "The MultiChain Yield Optimizer",
     "website": "https://beefy.finance/",
-    "explorer": "https://snowtrace.io/address/0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "description": "The Multichain Yield Optimizer",
+    "explorer": "https://bscscan.com/token/0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "type": "BEP20",
+    "symbol": "BIFI",
+    "decimals": 18,
     "status": "active",
-    "id": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "id": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/beefyfinance"
+        },
         {
             "name": "twitter",
             "url": "https://twitter.com/beefyfinance"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/beefyfinance"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/beefy-finance/"
+            "url": "https://t.me/beefyannouncement"
         },
         {
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/beefy-finance/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/beefy-finance/"
         }
-    ],
-    "tags": [
-        "defi"
     ]
 }

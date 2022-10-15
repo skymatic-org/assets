@@ -1,11 +1,11 @@
 {
-    "name": "WINGS",
+    "name": "Wings",
+    "website": "https://jetswap.finance/",
+    "description": "Jetswap is a decentralized Automated Market Maker (AMM) on Binance Smart Chain with low fees and instant trade execution. Trade from the comfort of your own wallet! ",
+    "explorer": "https://bscscan.com/token/0x0487b824c8261462F88940f97053E65bDb498446",
+    "type": "BEP20",
     "symbol": "WINGS",
-    "type": "ERC20",
     "decimals": 18,
-    "description": "WINGS combines several concepts, ranging from attention rewards, forecasting markets, smart contracts, governance models and federated funds security.",
-    "website": "https://wings.ai/",
-    "explorer": "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
     "status": "active",
-    "id": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF"
+    "id": "0x0487b824c8261462F88940f97053E65bDb498446"
 }

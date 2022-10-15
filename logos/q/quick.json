@@ -2,12 +2,12 @@
     "name": "QuickSwap",
     "website": "https://quickswap.exchange/",
     "description": "Next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees, Powered by Polygon",
-    "explorer": "https://etherscan.io/token/0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
-    "type": "ERC20",
+    "explorer": "https://polygonscan.com/token/0x831753dd7087cac61ab5644b308642cc1c33dc13",
+    "type": "POLYGON",
     "symbol": "QUICK",
     "decimals": 18,
     "status": "active",
-    "id": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+    "id": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
     "links": [
         {
             "name": "github",

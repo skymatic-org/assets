@@ -1,12 +1,14 @@
 {
-    "name": "Akropolis",
-    "website": "https://akropolis.io",
-    "description": "Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.",
-    "explorer": "https://etherscan.io/token/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
-    "research": "https://research.binance.com/en/projects/akropolis",
-    "type": "ERC20",
+    "name": "Akropolis (Portal)",
+    "type": "SPL",
     "symbol": "AKRO",
-    "decimals": 18,
+    "decimals": 8,
+    "description": "Cross Chain Portal Bridged Token",
+    "website": "https://akropolis.io",
+    "explorer": "https://solscan.io/token/12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG",
     "status": "active",
-    "id": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7"
+    "id": "12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG",
+    "tags": [
+        "wrapped"
+    ]
 }

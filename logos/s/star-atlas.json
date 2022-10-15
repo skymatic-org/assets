@@ -1,13 +1,13 @@
 {
     "name": "Star Atlas (Portal)",
-    "type": "ERC20",
+    "type": "CW20",
     "symbol": "ATLAS",
     "decimals": 8,
     "description": "Cross Chain Portal Bridged Token",
     "website": "https://staratlas.com",
-    "explorer": "https://etherscan.io/token/0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
+    "explorer": "https://finder.terra.money/mainnet/address/terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
     "status": "active",
-    "id": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
+    "id": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
     "tags": [
         "wrapped"
     ]

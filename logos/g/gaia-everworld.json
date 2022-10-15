@@ -1,11 +1,11 @@
 {
     "name": "Gaia",
-    "website": "https://dollarprotocol.com",
-    "description": "Gaia is the algorithmic reserve asset in Dollar Protocol's f-series",
-    "explorer": "https://etherscan.io/token/0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4",
-    "type": "ERC20",
-    "symbol": "Gaia",
+    "website": "https://gaiadao.org/",
+    "description": "GaiaDAO aims to develop an environmentally-friendly ecosystem of prominent DeFi products on the BSC",
+    "explorer": "https://bscscan.com/token/0x25be9e26db60b1a3d1f7fa21679385df076af7fb",
+    "type": "BEP20",
+    "symbol": "GAIA",
     "decimals": 9,
     "status": "active",
-    "id": "0x4B9E5fe882b2fbB3E098c9A25a8Ce66135Ed2be4"
+    "id": "0x25Be9E26Db60B1A3d1f7fa21679385dF076Af7FB"
 }
