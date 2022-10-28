@@ -1,11 +1,21 @@
 {
-    "name": "Givly Coin",
+    "name": "GIVLY Coin",
+    "website": "https://cryptolocally.com/",
+    "description": "A non-custodial, smart contract powered P2P gateway to blockchain and DeFi",
+    "explorer": "https://etherscan.io/token/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+    "type": "ERC20",
     "symbol": "GIV",
-    "type": "BEP2",
     "decimals": 8,
-    "description": "GIV claims to be a utility token on the P2P exchange CryptoLocally. It can be used to purchase discounts and trade offer boosts on the platform.",
-    "website": "https://cryptolocally.com/en/giv/",
-    "explorer": "https://explorer.binance.org/asset/GIV-94E",
     "status": "active",
-    "id": "GIV-94E"
+    "id": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/CryptoLocally/Resources"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://cryptolocally.com/en/blog/giv-whitepaper/"
+        }
+    ]
 }
