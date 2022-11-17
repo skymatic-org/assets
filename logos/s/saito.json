@@ -1,11 +1,51 @@
 {
-    "name": "SAITO Token",
-    "website": "https://saito.io",
-    "description": "Wrapped SAITO in ERC20 format for ETH ecosystem interoperability. Saito is a revolutionary blockchain that fixes major incentive problems in all proof-of-work and proof-of-stake networks.",
-    "type": "ERC20",
+    "name": "Saito",
+    "type": "BEP20",
     "symbol": "SAITO",
     "decimals": 18,
+    "website": "https://saito.io",
+    "description": "Saito is a massively scaling layer one blockchain for application developers.",
+    "explorer": "https://bscscan.com/token/0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
     "status": "active",
-    "explorer": "https://etherscan.io/token/0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
-    "id": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B"
+    "id": "0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/saitoofficial"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/saitotech"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/SaitoIO"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/SaitoIOann"
+        },
+        {
+            "name": "blog",
+            "url": "https://saito.tech/blog/"
+        },
+        {
+            "name": "docs",
+            "url": "https://wiki.saito.io/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/HjTFh9Tfec"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://saito.io/saito-whitepaper.pdf"
+        }
+    ],
+    "tags": [
+        "wrapped",
+        "deflationary",
+        "gamefi",
+        "staking-native"
+    ]
 }

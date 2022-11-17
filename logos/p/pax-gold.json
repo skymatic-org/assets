@@ -1,12 +1,24 @@
 {
-    "name": "PAX Gold",
-    "website": "https://paxos.com/paxgold",
-    "description": "PAX Gold (PAXG) is a digital asset where one token is backed by one fine troy ounce (t oz) of a 400 oz London Good Delivery gold bar, stored in Brink’s gold vaults.",
-    "explorer": "https://etherscan.io/token/0x45804880De22913dAFE09f4980848ECE6EcbAf78",
-    "research": "https://research.binance.com/en/projects/pax-gold",
-    "type": "ERC20",
+    "name": "Pax Gold",
+    "type": "POLYGON",
     "symbol": "PAXG",
     "decimals": 18,
+    "website": "https://paxos.com/paxgold",
+    "description": "A digital token, backed by physical gold",
+    "explorer": "https://polygonscan.com/token/0x553d3D295e0f695B9228246232eDF400ed3560B5",
     "status": "active",
-    "id": "0x45804880De22913dAFE09f4980848ECE6EcbAf78"
+    "id": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PaxosGlobal"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/paxosglobal/"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
 }

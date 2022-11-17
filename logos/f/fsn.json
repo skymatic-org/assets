@@ -1,11 +1,33 @@
 {
-    "name": "Fusion Token",
+    "name": "Fusion",
+    "type": "coin",
+    "coin_type": 288,
     "symbol": "FSN",
-    "type": "ERC20",
     "decimals": 18,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0xD0352a019e9AB9d757776F532377aAEbd36Fd541",
-    "status": "abandoned",
-    "id": "0xD0352a019e9AB9d757776F532377aAEbd36Fd541"
+    "website": "https://fusion.org/",
+    "description": "Fusion Protocol is a infrastructure of digital finance. It developed DCRM cross chain technology, time framing technology and Quantum Swap technology to provide an infrastructure of transferring value across different chains, system and time.",
+    "explorer": "https://blocks.fusionnetwork.io/#",
+    "rpc_url": "https://mainway.freemoon.xyz",
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FUSIONProtocol"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/FUSIONProtocol/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/FUSIONFoundation"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/fusion/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
 }
