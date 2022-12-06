@@ -1,11 +1,28 @@
 {
     "name": "Aurora",
-    "symbol": "AOA",
-    "type": "ERC20",
+    "type": "AURORA",
+    "symbol": "AURORA",
     "decimals": 18,
-    "description": "Auroracoin is a decentralised, peer-to-peer, and secure cryptocurrency released as an alternative to the Icelandic Króna to bypass governmental restrictions associated with the national fiat currency. Aurora Chain offers intelligent application isolation and enables multi-chain parallel expansion to create an extremely high TPS with security maintain.",
-    "website": "https://www.aurorachain.io/",
-    "explorer": "https://etherscan.io/token/0x9ab165D795019b6d8B3e971DdA91071421305e5a",
+    "description": "AURORA token is a governance token to ensure proper upgrades to the protocol. Aurora is governed by AuroraDAO which includes representatives from different ecosystems and sectors of the blockchain industry.",
+    "website": "https://aurora.dev/",
+    "explorer": "https://aurorascan.dev/address/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79",
     "status": "active",
-    "id": "0x9ab165D795019b6d8B3e971DdA91071421305e5a"
+    "id": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/auroraisnear"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/aurora-is-near"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/auroraisnear"
+        }
+    ],
+    "tags": [
+        "governance"
+    ]
 }
