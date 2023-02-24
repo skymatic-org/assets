@@ -1,11 +1,28 @@
 {
     "name": "Gods Unchained",
-    "symbol": "GODS",
+    "website": "https://godsunchained.com",
+    "description": "THE TRADING CARD GAME THAT PAYS TO PLAY",
+    "explorer": "https://etherscan.io/token/0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
     "type": "ERC20",
-    "decimals": 0,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab",
-    "status": "abandoned",
-    "id": "0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab"
+    "symbol": "GODS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+    "tags": [
+        "gamefi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GodsUnchained"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/GodsUnchained/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/godsunchained/"
+        }
+    ]
 }

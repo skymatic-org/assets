@@ -1,28 +1,17 @@
 {
     "name": "Clover",
-    "website": "https://clv.org/",
-    "description": "Clover is the native token of CLV M-Chain, and is used for staking to take part in network consensus, transaction fees, platform rewards, and network governance.",
-    "explorer": "https://etherscan.io/token/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
-    "symbol": "CLV",
+    "website": "https://clv.surge.sh/",
+    "description": "A crypto community and group unlike any other. Unrivaled in their authenticity and uniqueness, they are certainly not for the easily offended.",
+    "explorer": "https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F",
     "type": "ERC20",
-    "decimals": 18,
+    "symbol": "CLV",
+    "decimals": 6,
     "status": "active",
-    "id": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
-    "tags": [
-        "staking-native"
-    ],
+    "id": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/clover-network"
-        },
-        {
             "name": "twitter",
-            "url": "https://twitter.com/clv_org"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@clv_org"
+            "url": "https://twitter.com/clvfi"
         }
     ]
 }

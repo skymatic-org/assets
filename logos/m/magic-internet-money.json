@@ -1,29 +1,25 @@
 {
     "name": "Magic Internet Money",
-    "website": "https://abracadabra.money/",
-    "description": "MIM is a stablecoin backed by interest bearing collateral",
-    "explorer": "https://ftmscan.com/token/0x82f0b8b456c1a451378467398982d4834b6829c1",
-    "type": "FANTOM",
     "symbol": "MIM",
+    "type": "BEP20",
     "decimals": 18,
+    "description": "abracadabra.money is a lending protocol that allows users to borrow a USD-pegged Stablecoin (MIM) using interest-bearing tokens as collateral.",
+    "website": "https://abracadabra.money/",
+    "explorer": "https://bscscan.com/token/0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
     "status": "active",
-    "id": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+    "id": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
     "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Abracadabra-money/magic-internet-money"
-        },
         {
             "name": "twitter",
             "url": "https://twitter.com/MIM_Spell"
         },
         {
-            "name": "medium",
-            "url": "https://abracadabramoney.medium.com/"
+            "name": "github",
+            "url": "https://github.com/Abracadabra-money/magic-internet-money"
         },
         {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/magic-internet-money/"
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/ru/currencies/magic-internet-money/"
         }
     ],
     "tags": [

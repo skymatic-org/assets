@@ -1,45 +1,25 @@
 {
     "name": "Quant",
-    "website": "https://quant.network",
-    "description": "The Quant Network team developed Quant as a cryptocurrency token based on the Ethereum blockchain. The solutions offered by Quant include Overledger OS and GoVerify.",
-    "explorer": "https://etherscan.io/token/0x4a220E6096B25EADb88358cb44068A3248254675",
-    "type": "ERC20",
     "symbol": "QNT",
+    "type": "KRC20",
     "decimals": 18,
+    "description": "Blockchain operating system that connects the world’s networks and facilitates the development of multi-chain applications.",
+    "website": "https://www.quant.network/",
+    "explorer": "https://explorer.kcc.io/token/0x791630C11c7159A748d8c2267a66780B3DDC40a7",
     "status": "active",
-    "id": "0x4a220E6096B25EADb88358cb44068A3248254675",
+    "id": "0x791630C11c7159A748d8c2267a66780B3DDC40a7",
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/quantnetwork"
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/quant/"
         },
         {
             "name": "twitter",
             "url": "https://twitter.com/quant_network"
         },
         {
-            "name": "reddit",
-            "url": "https://reddit.com/r/QuantNetwork/"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/@quant_network"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/quantnetwork"
-        },
-        {
             "name": "telegram",
-            "url": "https://t.me/quantnetworkannouncements"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://files.quant.network/files.quant.network/Quant_Overledger_Whitepaper_v0.1.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/quant-network/"
+            "url": "https://t.me/QuantOverledger"
         }
     ]
 }
